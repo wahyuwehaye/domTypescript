@@ -1,0 +1,38 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  div {
+    margin: 10px 0;
+  }
+  
+  label {
+    display: inline-block;
+    width: 100px;
+  }
+  
+  input, button {
+    padding: 5px;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 5px 0;
+  }
+  

@@ -1,0 +1,14 @@
+{
+  "name": "example_ts",
+  "version": "1.0.0",
+  "description": "example",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "wehaye"
+  ],
+  "author": "wehaye",
+  "license": "ISC"
+}
